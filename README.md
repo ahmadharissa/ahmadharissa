@@ -9,5 +9,5 @@
 - ⚡ Fun fact: ...
 
 <div align="center">
-	<img src="https://github.com/sindresorhus/sindresorhus/raw/main/main.gif" alt="Hello. I'm Ahmad harissa. I like code. Thanks for reading.">
+	<img src="[https://github.com/sindresorhus/sindresorhus/raw/main/main.gif](https://assets.entrepreneur.com/content/3x2/2000/1649279368-Ent-2022Python.jpeg)" alt="Hello. I'm Ahmad harissa. I like code. Thanks for reading.">
 </div>
