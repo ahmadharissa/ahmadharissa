@@ -1,9 +1,9 @@
-<!-- ### Hi there 👋
+ ### Hi there 👋
 
 - 🔭 I’m currently working on Salem Group
-- 🌱 I’m currently learning Node Js
+- 🌱 I’m currently learning Node Js (Express, Nest), React Js
 - 👯 I’m looking to collaborate on Senior Backend
-- 💬 Ask me about ...
+<!-- - 💬 Ask me about ...
 - 📫 How to reach me: 71276017
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
