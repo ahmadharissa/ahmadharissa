@@ -1,9 +1,7 @@
  ### Hi there 👋
 
 - 🔭 I’m currently working on Salem Group
-- 🌱 I’m currently learning Full Stack Developer:
- 		Frontend: (ReactJS and ASP.NET Core)
-		Backend: (NodeJS)
+- 🌱 I’m currently learning Full Stack Developer: <br /> Frontend: (ReactJS and ASP.NET Core) <br /> Backend: (NodeJS)
 - 👯 I’m looking to collaborate on Senior Backend
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: 71276017
